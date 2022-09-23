@@ -77,6 +77,10 @@ spec:
                       maximum: 65
                       minimum: 1
                       type: integer
+                    syncE4lConf:
+                      type: string
+                    syncE4lOpts:
+                      type: string
                     ts2PhcConf:
                       type: string
                     ts2PhcOpts:
